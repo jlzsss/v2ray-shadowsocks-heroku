@@ -5,7 +5,7 @@
 	"env": {
 		"PASSWORD": {
 			"description": "Shadowsocks Password",
-			"value": "ss123456"
+			"value": "jlz13565852287"
 		}
 	},
 	"stack": "container",
