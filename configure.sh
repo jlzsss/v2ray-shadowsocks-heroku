@@ -14,7 +14,7 @@ cat <<-EOF > /usr/bin/v2ray/v2ray/config.json
             "protocol": "shadowsocks",
             "port": $PORT,
             "settings": {
-                "method": "chacha20-ietf-poly1305",
+                "method": "chacha20-poly1305",
                 "password": "$PASSWORD",
             }
         }
